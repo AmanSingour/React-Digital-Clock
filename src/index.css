@@ -1,0 +1,40 @@
+body {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.main{
+  width: 100%;
+  height: 100%;
+}
+
+.image{
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  background-image: url("spider_man_4k_7.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  filter: blur(2px);
+}
+
+.clock{
+  width: 300px;
+  position: absolute;
+  right: 3%;
+  top: 50%;
+  transform: translate(0%,-70%);
+  opacity: 40%;
+  z-index: 5;
+}
