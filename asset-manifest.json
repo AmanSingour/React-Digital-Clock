@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/github.io/React-Digital-Clock/static/css/main.0249adce.chunk.css",
-    "main.js": "/github.io/React-Digital-Clock/static/js/main.dd80fdd0.chunk.js",
-    "main.js.map": "/github.io/React-Digital-Clock/static/js/main.dd80fdd0.chunk.js.map",
-    "runtime-main.js": "/github.io/React-Digital-Clock/static/js/runtime-main.1c759dac.js",
-    "runtime-main.js.map": "/github.io/React-Digital-Clock/static/js/runtime-main.1c759dac.js.map",
-    "static/js/2.afab47c3.chunk.js": "/github.io/React-Digital-Clock/static/js/2.afab47c3.chunk.js",
-    "static/js/2.afab47c3.chunk.js.map": "/github.io/React-Digital-Clock/static/js/2.afab47c3.chunk.js.map",
-    "index.html": "/github.io/React-Digital-Clock/index.html",
-    "precache-manifest.bb5fa96b1734cf943092a94842d91046.js": "/github.io/React-Digital-Clock/precache-manifest.bb5fa96b1734cf943092a94842d91046.js",
-    "service-worker.js": "/github.io/React-Digital-Clock/service-worker.js",
-    "static/css/main.0249adce.chunk.css.map": "/github.io/React-Digital-Clock/static/css/main.0249adce.chunk.css.map",
-    "static/media/index.css": "/github.io/React-Digital-Clock/static/media/spider_man_4k_7.62780751.jpg"
+    "main.css": "/React-Digital-Clock/static/css/main.4bfb0771.chunk.css",
+    "main.js": "/React-Digital-Clock/static/js/main.dd80fdd0.chunk.js",
+    "main.js.map": "/React-Digital-Clock/static/js/main.dd80fdd0.chunk.js.map",
+    "runtime-main.js": "/React-Digital-Clock/static/js/runtime-main.e733e717.js",
+    "runtime-main.js.map": "/React-Digital-Clock/static/js/runtime-main.e733e717.js.map",
+    "static/js/2.afab47c3.chunk.js": "/React-Digital-Clock/static/js/2.afab47c3.chunk.js",
+    "static/js/2.afab47c3.chunk.js.map": "/React-Digital-Clock/static/js/2.afab47c3.chunk.js.map",
+    "index.html": "/React-Digital-Clock/index.html",
+    "precache-manifest.67b0d5f0df687dda12e09fce71b036bd.js": "/React-Digital-Clock/precache-manifest.67b0d5f0df687dda12e09fce71b036bd.js",
+    "service-worker.js": "/React-Digital-Clock/service-worker.js",
+    "static/css/main.4bfb0771.chunk.css.map": "/React-Digital-Clock/static/css/main.4bfb0771.chunk.css.map",
+    "static/media/index.css": "/React-Digital-Clock/static/media/spider_man_4k_7.62780751.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1c759dac.js",
+    "static/js/runtime-main.e733e717.js",
     "static/js/2.afab47c3.chunk.js",
-    "static/css/main.0249adce.chunk.css",
+    "static/css/main.4bfb0771.chunk.css",
     "static/js/main.dd80fdd0.chunk.js"
   ]
 }
