@@ -35,6 +35,6 @@ code {
   right: 3%;
   top: 50%;
   transform: translate(0%,-70%);
-  opacity: 40%;
+  opacity: 0.4;
   z-index: 5;
 }
