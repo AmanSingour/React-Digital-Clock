@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "45ee194f043e5b7e5be9a9bd80772a70",
+    "revision": "98c30e5f598b089f35d47ca02bab2c4f",
     "url": "/React-Digital-Clock/index.html"
   },
   {
-    "revision": "733bb72236ba85c27530",
-    "url": "/React-Digital-Clock/static/css/main.85efcc62.chunk.css"
+    "revision": "a116fbf4f6e006fed39c",
+    "url": "/React-Digital-Clock/static/css/main.16f80f84.chunk.css"
   },
   {
     "revision": "b6faa7a5d6a5fae8d389",
     "url": "/React-Digital-Clock/static/js/2.afab47c3.chunk.js"
   },
   {
-    "revision": "733bb72236ba85c27530",
+    "revision": "a116fbf4f6e006fed39c",
     "url": "/React-Digital-Clock/static/js/main.dd80fdd0.chunk.js"
   },
   {
