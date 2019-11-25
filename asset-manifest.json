@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/React-Digital-Clock/static/css/main.4bfb0771.chunk.css",
+    "main.css": "/React-Digital-Clock/static/css/main.85efcc62.chunk.css",
     "main.js": "/React-Digital-Clock/static/js/main.dd80fdd0.chunk.js",
     "main.js.map": "/React-Digital-Clock/static/js/main.dd80fdd0.chunk.js.map",
     "runtime-main.js": "/React-Digital-Clock/static/js/runtime-main.e733e717.js",
@@ -8,15 +8,15 @@
     "static/js/2.afab47c3.chunk.js": "/React-Digital-Clock/static/js/2.afab47c3.chunk.js",
     "static/js/2.afab47c3.chunk.js.map": "/React-Digital-Clock/static/js/2.afab47c3.chunk.js.map",
     "index.html": "/React-Digital-Clock/index.html",
-    "precache-manifest.67b0d5f0df687dda12e09fce71b036bd.js": "/React-Digital-Clock/precache-manifest.67b0d5f0df687dda12e09fce71b036bd.js",
+    "precache-manifest.b8258079c7c120f41e66c9e99c97d475.js": "/React-Digital-Clock/precache-manifest.b8258079c7c120f41e66c9e99c97d475.js",
     "service-worker.js": "/React-Digital-Clock/service-worker.js",
-    "static/css/main.4bfb0771.chunk.css.map": "/React-Digital-Clock/static/css/main.4bfb0771.chunk.css.map",
+    "static/css/main.85efcc62.chunk.css.map": "/React-Digital-Clock/static/css/main.85efcc62.chunk.css.map",
     "static/media/index.css": "/React-Digital-Clock/static/media/spider_man_4k_7.62780751.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.e733e717.js",
     "static/js/2.afab47c3.chunk.js",
-    "static/css/main.4bfb0771.chunk.css",
+    "static/css/main.85efcc62.chunk.css",
     "static/js/main.dd80fdd0.chunk.js"
   ]
 }
