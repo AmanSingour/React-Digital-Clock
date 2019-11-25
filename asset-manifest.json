@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.81dc6d24.chunk.css",
+    "main.js": "/static/js/main.dd80fdd0.chunk.js",
+    "main.js.map": "/static/js/main.dd80fdd0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2e1b3d9d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2e1b3d9d.js.map",
+    "static/js/2.afab47c3.chunk.js": "/static/js/2.afab47c3.chunk.js",
+    "static/js/2.afab47c3.chunk.js.map": "/static/js/2.afab47c3.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e65731741b11871a0c395d1a59c11bc7.js": "/precache-manifest.e65731741b11871a0c395d1a59c11bc7.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.81dc6d24.chunk.css.map": "/static/css/main.81dc6d24.chunk.css.map",
+    "static/media/index.css": "/static/media/spider_man_4k_7.62780751.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e1b3d9d.js",
+    "static/js/2.afab47c3.chunk.js",
+    "static/css/main.81dc6d24.chunk.css",
+    "static/js/main.dd80fdd0.chunk.js"
+  ]
+}
